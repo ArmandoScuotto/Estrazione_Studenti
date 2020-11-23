@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WA_Estrazione", "WA_Estrazione.csproj", "{D7F32142-256F-4AEC-90BD-8CDD61338EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F32142-256F-4AEC-90BD-8CDD61338EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F32142-256F-4AEC-90BD-8CDD61338EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F32142-256F-4AEC-90BD-8CDD61338EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F32142-256F-4AEC-90BD-8CDD61338EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E61F66-DD31-44FF-B6E2-8A5892288BFE}
+	EndGlobalSection
+EndGlobal
